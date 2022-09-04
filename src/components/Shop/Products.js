@@ -1,18 +1,18 @@
-import ProductItem from "./ProductItem";
-import classes from "./Products.module.css";
+import ProductItem from './ProductItem';
+import classes from './Products.module.css';
 
 const DUMMY_PRODUCTS = [
   {
-    id: "p1",
+    id: 'p1',
     price: 6,
-    title: "The Shining",
-    description: "The first book I read",
+    title: 'My First Book',
+    description: 'The first book I ever wrote',
   },
   {
-    id: "p2",
+    id: 'p2',
     price: 5,
-    title: "Keeper of The Lost Cities",
-    description: "The second book I read",
+    title: 'My Second Book',
+    description: 'The second book I ever wrote',
   },
 ];
 
